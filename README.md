@@ -1,11 +1,11 @@
-Amigo Secreto 🎁
+# Amigo Secreto 🎁
 
 Este é um projeto simples de Amigo Secreto desenvolvido em HTML, CSS e JavaScript. Ele permite adicionar nomes de amigos, sorteá-los aleatoriamente e exibir um resultado individualmente a cada sorteio.
 
 
 
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 Adicionar nomes de amigos à lista.
 
@@ -17,7 +17,7 @@ Exibir uma mensagem quando todos os amigos forem sorteados.
 
 
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5
 
@@ -26,16 +26,16 @@ CSS3
 JavaScript 
 
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
-📁 amigo-secreto
-│-- 📁 assets        # Imagens e ícones do projeto
-│-- 📄 index.html    # Estrutura da página
-│-- 📄 style.css     # Estilização da página
-│-- 📄 app.js        # Lógica do sorteio
-│-- 📄 README.md     # Documentação do projeto
+-  📁 amigo-secreto
+- │-- 📁 assets        # Imagens e ícones do projeto
+- │-- 📄 index.html    # Estrutura da página
+- │-- 📄 style.css     # Estilização da página
+- │-- 📄 app.js        # Lógica do sorteio
+- │-- 📄 README.md     # Documentação do projeto
 
-🚀 Como Usar
+## 🚀 Como Usar
 
 Clone este repositório:
 
